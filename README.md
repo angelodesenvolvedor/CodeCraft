@@ -21,11 +21,11 @@ Para rodar o projeto localmente, siga os passos:
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/codecraft-summit-2025.git
+   git clone https://github.com/angelodesenvolvedor/CodeCraft.git
    ```
 2. Navegue até a pasta do projeto:
    ```sh
-   cd codecraft-summit-2025
+   cd CodeCraft
    ```
 3. Abra o arquivo `index.html` no navegador.
 
