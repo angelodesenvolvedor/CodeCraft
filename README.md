@@ -15,11 +15,6 @@ Antes de começar, você precisará ter instalado em sua máquina:
 - Editor de código (VS Code recomendado)
 - Git (opcional, para clonar o repositório)
 
-```
-Exemplo de instalação de dependências:
-npm install
-```
-
 ### 🔨 Guia de instalação
 
 Para rodar o projeto localmente, siga os passos:
