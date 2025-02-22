@@ -40,3 +40,6 @@ As principais tecnologias utilizadas neste projeto são:
 - **Inscrição de usuários**: O sistema permite que usuários preencham um formulário com email e telefone.
 - **Código de referência**: Cada usuário recebe um link único de convite.
 - **Contagem de indicações**: Exibe quantas pessoas se inscreveram pelo link do usuário.
+
+## 👷 Autor
+  * **Nome do dev** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
