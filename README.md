@@ -36,22 +36,7 @@ As principais tecnologias utilizadas neste projeto são:
 - **CSS**: Estilização e responsividade.
 - **JavaScript**: Manipulação do DOM e lógica da aplicação.
 
-## Estrutura do Projeto
-```
-CodeCraft-Summit-2025/
-├── index.html  # Estrutura principal da página
-├── css/
-│   └── style.css  # Estilos do site
-├── js/
-│   └── script.js  # Lógica do aplicativo
-└── assets/
-    ├── logo.svg  # Logo do evento
-    ├── mail.svg  # Ícone de email
-    ├── phone.svg  # Ícone de telefone
-    └── arrow.svg  # Ícone de seta
-```
-
-## Funcionalidades
+## ✅Funcionalidades
 - **Inscrição de usuários**: O sistema permite que usuários preencham um formulário com email e telefone.
 - **Código de referência**: Cada usuário recebe um link único de convite.
 - **Contagem de indicações**: Exibe quantas pessoas se inscreveram pelo link do usuário.
