@@ -42,7 +42,7 @@ As principais tecnologias utilizadas neste projeto são:
 - **Contagem de indicações**: Exibe quantas pessoas se inscreveram pelo link do usuário.
 
 ## 🧑🏽‍💻 Autor
-  * **Angelo Silvano** - *Front-End Developer* - [nome_do_dev](https://github.com/link_do_Perfil)
+  * **Angelo Silvano** - *Front-End Developer* - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
 ## 📄 Licença
 
