@@ -41,8 +41,8 @@ As principais tecnologias utilizadas neste projeto são:
 - **Código de referência**: Cada usuário recebe um link único de convite.
 - **Contagem de indicações**: Exibe quantas pessoas se inscreveram pelo link do usuário.
 
-## 👷 Autor
-  * **Nome do dev** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
+## 🧑🏽‍💻 Autor
+  * **Angelo Silvano** - *Front-End Developer* - [nome_do_dev](https://github.com/link_do_Perfil)
 
 ## 📄 Licença
 
