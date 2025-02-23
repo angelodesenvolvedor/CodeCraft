@@ -8,13 +8,6 @@ CodeCraft é um evento online gratuito focado em desenvolvimento de software, tr
 
 Um evento criado para conectar desenvolvedores e proporcionar aprendizado sobre as tendências mais recentes do mercado.
 
-### ⚙️ Pré-requisitos
-
-Antes de começar, você precisará ter instalado em sua máquina:
-- Navegador atualizado
-- Editor de código (VS Code recomendado)
-- Git (opcional, para clonar o repositório)
-
 ### 🔨 Guia de instalação
 
 Para rodar o projeto localmente, siga os passos:
